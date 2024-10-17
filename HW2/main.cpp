@@ -1,12 +1,3 @@
-/*
-Student No.: 111652031
-Student Name: Pang-Chun, Chung
-Email: caco.sc11@nycu.edu.tw
-SE tag: xnxcxtxuxoxsx
-Statement: I am fully aware that this program is not
-supposed to be posted to a public server, such as a
-public GitHub repository or a public web page.
-*/
 #include <iostream>
 #include <unistd.h>
 #include <sys/ipc.h>
